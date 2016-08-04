@@ -1,0 +1,29 @@
+_repo: The-Man-Who-Could-Not-Lose_1760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: Richard Harding Davis based many of his works on his own experiences
+  as a journalist. This engaging collection of short stories, the title story of which
+  was made into a movie in 1915, also includes such stories as My Buried Treasure,"
+  The Nature Faker," and The Lost House." It is a premier example of his talents.
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+title: The Man Who Could Not Lose
+url: http://www.gutenberg.org/ebooks/1760
